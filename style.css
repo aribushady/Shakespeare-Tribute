@@ -1,0 +1,15 @@
+body {
+  background-color: #F2DC5D;
+} 
+
+#image {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+}
+
+#img-div {
+  heigth: 500px;
+  width: 500px;
+}
