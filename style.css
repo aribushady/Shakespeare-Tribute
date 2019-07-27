@@ -1,24 +1,61 @@
 body {
-  background-color: #F2DC5D;
-} 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #191923;
+    color: #F0E100;
+}
+
+#title {
+    
+    font-family: "Garamond", Fantasy;
+    font-size: 45px;
+}
 
 #image {
-  display: block;
-  max-width: 100%;
-  max-height: 100%;
-  margin: auto;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
+
+.border {
+    border-radius: 20%;
+    border-style: groove;
+    border-color: #000000;
 }
 
 #img-div {
-  heigth: 500px;
-  width: 500px;
+    height: 700px;
+    width: 500px;
 }
+
+#tribute-info {
+    font-family: "Garamond", Fantasy;
+    font-size: 18px;
+}
+
+
 #play-img {
     display: block;
     max-width: 100%;
     max-height: 100;
+    border-radius: 20%;
+    border-radius: 20%;
 }
+
 #plays-div {
-    height: 400px;
-    width: 400px;
+    
+}
+
+#plays-link {
+    text-decoration: none;
+    color: #F0E100;
+
+}
+
+
+#tribute-link {
+    text-decoration: none;
+    color: #F0E100;
 }
