@@ -1,5 +1,5 @@
 body {
-    font-family: "Garamond", Helvetica;
+    font-family: "Garamond";
     text-align: center;
     margin: 0;
     background-color: #191923;
@@ -8,7 +8,6 @@ body {
 
 #title {
     font-size: 45px;
-    font-family: fantasy, "Garamond";
 
 }
 
