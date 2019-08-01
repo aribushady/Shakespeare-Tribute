@@ -6,6 +6,8 @@ body {
     color: #F0E100;
 }
 
+
+
 #title {
     font-size: 45px;
 
@@ -19,11 +21,6 @@ body {
     border-radius: 20%;
 
 }
-
-
-
-
-#img-div {}
 
 #tribute-info {
     font-size: 18px;
@@ -42,9 +39,6 @@ body {
     border-radius: 20%;
 
 }
-
-
-#plays-img-div {}
 
 #img-caption {
     font-size: 12px;
@@ -77,4 +71,8 @@ a:hover {
     background-color: #95190C;
 }
 
-@media {}
+@media (max-width: 600px) {
+    body {
+        font-size: 1.5em;
+    }
+}
