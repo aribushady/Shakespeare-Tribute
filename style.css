@@ -8,7 +8,7 @@ body {
 
 #title {
     font-size: 45px;
-    
+
 }
 
 #image {
@@ -17,19 +17,17 @@ body {
     width: 30%;
     height: 25%;
     border-radius: 20%;
-      
+
 }
 
 
 
-#img-div {
-    
-    
-}
+
+#img-div {}
 
 #tribute-info {
     font-size: 18px;
-    
+
 
 }
 
@@ -42,12 +40,11 @@ body {
     height: 400px;
     width: 400px;
     border-radius: 20%;
-    
-}
-
-#plays-img-div {
 
 }
+
+
+#plays-img-div {}
 
 #img-caption {
     font-size: 12px;
@@ -72,6 +69,12 @@ ul {
     margin: 0 auto 50px auto;
 }
 
+li {
+    margin: 12px 0;
+}
+
 a:hover {
     background-color: #95190C;
 }
+
+@meida {}
